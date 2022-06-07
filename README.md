@@ -6,8 +6,8 @@ An investor wants to learn more about the weather before committing to build a S
 ## Results
 ### June Statistics
 
-![1]()
+![1](https://github.com/Jandreezy/surfs_up/blob/main/Images/june_stat_temp_prcp.PNG?raw=true)
 
 ### December Statistics
 
-![2]
+![2](https://github.com/Jandreezy/surfs_up/blob/main/Images/dec_stat_temp_prcp.PNG?raw=true)
