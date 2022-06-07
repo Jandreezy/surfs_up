@@ -11,3 +11,6 @@ An investor wants to learn more about the weather before committing to build a S
 ### December Statistics
 
 ![2](https://github.com/Jandreezy/surfs_up/blob/main/Images/dec_stat_temp_prcp.PNG?raw=true)
+
+## Summary:
+The investor's main concern was getting rained out too frequently.  Looking at the data, it supports opening a Surf and Ice Cream shop year-round. Comparing the June and December weather patterns, the temperatures and precipitation are fairly close which means customers can enjoy ice cream no matter the season.
